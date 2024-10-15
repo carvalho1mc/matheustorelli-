@@ -20,7 +20,7 @@ header {
     gap: 28px;
 }
 
-.nav-item :hover {
+.nav-item:hover {
     cursor: pointer;
     background-color: black;
     color: aliceblue; 
